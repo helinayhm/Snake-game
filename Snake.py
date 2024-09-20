@@ -1,5 +1,3 @@
-# Program in Python to create a Snake Game 
-
 from tkinter import *
 import random 
 
